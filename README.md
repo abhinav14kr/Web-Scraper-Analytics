@@ -20,6 +20,7 @@ Welcome to the Web Scraping Projects and Analysis repository! This repository co
 
 ## Installation
 
-To run these projects locally, you'll need to have Python and the respective libraries listed above installed on your machine. You can install the required dependencies using pip
+To run these projects locally, you'll need to have Python and the respective libraries listed above installed on your machine. You can install the required dependencies using pip: 
 
+*https://pip.pypa.io/en/latest/installation/*
 
